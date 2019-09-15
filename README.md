@@ -8,6 +8,6 @@ along with the quantity. You will get a "Transaction complete!" message at the e
 However, if we do not have enough of the selected item in stock we will be unable to fulfill your 
 purchase therefore, the transaction will not go through.
 
-![Customer view](/images/Customer view.PNG)
+![Customer view](/images/Customerview.PNG)
 
 
