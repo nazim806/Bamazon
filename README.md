@@ -9,4 +9,4 @@ However, if we do not have enough of the selected item in stock we will be unabl
 purchase therefore, the transaction will not go through.
 
 
-![Customer view and purchase](/images/Customer view.PNG)
+![Customer view and purchase] (/images/Customer view.PNG)
